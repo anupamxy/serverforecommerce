@@ -34,7 +34,7 @@ app.use('/api/v1/product',productRoutes);
 
 app.get('/',(req,res)=>{
     res.send(
-       '<h1>WELCOME TO ECOMMERCE APP</h1>'
+      
     )
 })
 const PORT=process.env.PORT||8080;
