@@ -8,15 +8,15 @@ import categoryRoutes from './routes/categoryRoute.js';
 import productRoutes from './routes/productRoutes.js';
 import fileUpload from 'express-fileupload';
 import cors from "cors";
-import {fileURLToPath} from 'url';
+import { fileURLToPath } from 'url';
 
 //configure env
 
 dotenv.config();
 
 connectDB();
-const __filename=fileUrlToPath(import.meta.url)
-const __dirname=path.dirname(__filename);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const app=express();
 app.use(fileUpload());
 app.use(cors());
