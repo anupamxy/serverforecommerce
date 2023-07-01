@@ -8,6 +8,7 @@ import categoryRoutes from './routes/categoryRoute.js';
 import productRoutes from './routes/productRoutes.js';
 import fileUpload from 'express-fileupload';
 import cors from "cors";
+import path from 'path';
 import { fileURLToPath } from 'url';
 
 //configure env
