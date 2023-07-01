@@ -24,7 +24,7 @@ app.use(fileUpload());
 app.use(cors());
 app.use(express.json())
 
-app.use(express.static(path.join(__dirname, '../../clientecomm/clientecomm/build')));
+app.use(express.static(path.join(__dirname, './client/build')));
 app.use(morgan('dev'))
 //routes
 
@@ -33,7 +33,7 @@ app.use('/api/v1/category',categoryRoutes);
 app.use('/api/v1/product',productRoutes);
 
 app.use('*',function (req,res){
-  res.sendFile(path.join(__dirname, '../../clientecomm/clientecomm/build/index.html'));
+  res.sendFile(path.join(__dirname, './client/build/index.html'));
 })
 
 
