@@ -14,7 +14,15 @@ The Rural India Empowerment Initiative is dedicated to promoting and supporting 
 - **Sustainable Practices:** Encourage and promote environmentally friendly and sustainable production methods among rural industries, fostering responsible and conscious entrepreneurship.
 - **Community Development:** Collaborate with local communities to identify their needs and contribute to their overall development by generating employment opportunities and promoting local culture.
 - **Education and Training:** Provide educational resources and training programs to enhance the skills and knowledge of rural entrepreneurs, enabling them to improve the quality and competitiveness of their products.
-
+## Features
+Product Filtering: Browse products using intuitive filters for category and price range.
+Product Search: Easily search for products by name or relevant attributes.
+Admin Dashboard: Secure login for administrators to manage inventory and view/manage customer orders.
+Customer Dashboard: User-friendly dashboard for customers to register, login, and access personalized features.
+Forgot Password: Password recovery functionality for customers who forget their login credentials.
+Smart Backend: Efficient and robust backend system handling data management and user requests.
+Payment Gateway: Integration of a secure payment gateway for safe online transactions.
+Add to Cart: Convenient "Add to Cart" feature allowing customers to collect items for purchase.
 
 
 
