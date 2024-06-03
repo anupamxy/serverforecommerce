@@ -68,15 +68,6 @@ Once the server is running, you can access the application via your web browser 
 
 ---
 
-## **Contact Us**
-
-Feel free to reach out for more information or any inquiries.
-
-📧 Email: support@ruralempowerment.in
-
-📞 Phone: +91 12345 67890
-
-🌐 Website: [www.ruralempowerment.in](http://www.ruralempowerment.in)
 
 ---
 
